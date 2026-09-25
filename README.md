@@ -4,7 +4,7 @@
 
 A Streamlit app that recommends songs based on a listener's preferred genres, listening history, ratings, and time of day. It combines supervised ML models with content-based similarity and time-of-day context into one explainable recommendation score; the accompanying notebook adds user-user and item-item collaborative filtering.
 
-- **Live demo:** link coming soon
+- **Live demo:** https://moodmix-py.streamlit.app/
 - **Companion project (SQL version):** [music-recommendation-app](https://github.com/Shreyashree-Mondal/music-recommendation-app), a 3NF MySQL design of the same domain
 
 Built as a team project (Group 14) for a graduate analytics course at the University of Houston.
